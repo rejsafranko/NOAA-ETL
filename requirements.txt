@@ -1,0 +1,6 @@
+requests==2.32.3
+pandas==2.2.2
+apache-airflow==2.9.2
+s3fs==2024.6.1
+boto3==1.34.143
+python-dotenv==1.0.1
